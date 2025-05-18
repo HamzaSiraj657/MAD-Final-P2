@@ -1,0 +1,19 @@
+buildscript {
+    ext {
+        // Specify your versions here
+        compileSdkVersion = 33
+        buildToolsVersion = "33.0.0"
+        ndkVersion = "21.3.6528147" // Use the version you require
+        minSdkVersion = 24
+        targetSdkVersion = 33
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("com.android.tools.build:gradle:8.0.0")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.10")
+        classpath("com.facebook.react:react-native-gradle-plugin")
+    }
+}
