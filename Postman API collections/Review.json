@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "product_id": 2,
+        "user_email": "user",
+        "comment": "well done boy"
+    },
+    {
+        "id": 4,
+        "product_id": 2,
+        "user_email": "roll@gmail.com",
+        "comment": "roollllll"
+    },
+    {
+        "id": 6,
+        "product_id": 2,
+        "user_email": "user",
+        "comment": "You can not see me "
+    },
+    {
+        "id": 7,
+        "product_id": 3,
+        "user_email": "user",
+        "comment": "d"
+    },
+    {
+        "id": 8,
+        "product_id": 4,
+        "user_email": "user",
+        "comment": "gfaf"
+    },
+    {
+        "id": 9,
+        "product_id": 5,
+        "user_email": "yello@gmail.com",
+        "comment": "Wow , what a laptop."
+    },
+    {
+        "id": 10,
+        "product_id": 2,
+        "user_email": "yello@gmail.com",
+        "comment": "It's the bag , I am looking for."
+    },
+    {
+        "id": 11,
+        "product_id": 3,
+        "user_email": "yello@gmail.com",
+        "comment": "c"
+    },
+    {
+        "id": 12,
+        "product_id": 4,
+        "user_email": "yello@gmail.com",
+        "comment": "Hmm, protection from rain , now I want it."
+    },
+    {
+        "id": 13,
+        "product_id": 5,
+        "user_email": "umer@gmail.com",
+        "comment": "It is still best."
+    }
+]

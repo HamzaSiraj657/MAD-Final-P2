@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "name": "Bag",
+        "description": "Bag is good for important things...",
+        "price": "20.00",
+        "image": "43fa6d242b0a859cb00da47df51baf50"
+    },
+    {
+        "id": 3,
+        "name": "Red Jacket",
+        "description": "Wow, what a jacket...",
+        "price": "25.00",
+        "image": "ae0c0073dcfe434dc10b9cc3bd948993"
+    },
+    {
+        "id": 4,
+        "name": "umbrella",
+        "description": "It protects us from rains...",
+        "price": "10.00",
+        "image": "72b2eb80726aa5d381b31611da12c650"
+    },
+    {
+        "id": 5,
+        "name": "HP Laptop",
+        "description": "It is a good quality , do you want it....",
+        "price": "57.00",
+        "image": "00246fafede4fc89c3a73214113671e8"
+    }
+]

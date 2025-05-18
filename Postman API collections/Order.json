@@ -1,0 +1,35 @@
+[
+    {
+        "id": 5,
+        "name": "Talha Ali",
+        "address": "Gradan ",
+        "phone": "0986334567",
+        "total": "112.00",
+        "products": "[{\"id\":3,\"name\":\"Red Jacket\",\"quantity\":1,\"price\":\"25.00\"},{\"id\":4,\"name\":\"umbrella\",\"quantity\":1,\"price\":\"10.00\"},{\"id\":5,\"name\":\"HP Laptop\",\"quantity\":1,\"price\":\"57.00\"},{\"id\":2,\"name\":\"Bag\",\"quantity\":1,\"price\":\"20.00\"}]",
+        "order_date": "5/18/2025",
+        "order_time": "10:55:02 PM",
+        "status": "pending"
+    },
+    {
+        "id": 4,
+        "name": "umer",
+        "address": "DHA , Karachi ",
+        "phone": "0238776657",
+        "total": "77.00",
+        "products": "[{\"id\":4,\"name\":\"umbrella\",\"quantity\":2,\"price\":\"10.00\"},{\"id\":5,\"name\":\"HP Laptop\",\"quantity\":1,\"price\":\"57.00\"}]",
+        "order_date": "5/18/2025",
+        "order_time": "10:44:16 PM",
+        "status": "shipped"
+    },
+    {
+        "id": 3,
+        "name": "yello",
+        "address": "yellowworld",
+        "phone": "098753588865",
+        "total": "45.00",
+        "products": "[{\"id\":2,\"name\":\"Bag\",\"quantity\":1,\"price\":\"20.00\"},{\"id\":3,\"name\":\"Red Jacket\",\"quantity\":1,\"price\":\"25.00\"}]",
+        "order_date": "5/18/2025",
+        "order_time": "10:39:27 PM",
+        "status": "delivered"
+    }
+]

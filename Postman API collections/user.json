@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Email": "admin@gmail.com",
+        "password": "$2b$10$PLaNHh8Ii8hRmHepS4DNKO/Qd9Zts/uiTUPJs4l8kVhqGIh1iWJLm",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "Email": "user",
+        "password": "$2b$10$pUXd4Bxq4Cm/A0b8IGxAButo4yaUbCBe7MuJ.81xtt/.bT0oDMM36",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "Email": "roll@gmail.com",
+        "password": "$2b$10$9er2pby4/BM8MGJF52zn7.3IgWNKx10VJoyPwjQCTH3FwMCcCf14C",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "Email": "yello@gmail.com",
+        "password": "$2b$10$hKUh.PI27hKcBwgjwDbZSeFfFtXPJMBRcF3OPYUeJP5s43zoPegXO",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "Email": "umer@gmail.com",
+        "password": "$2b$10$G2GGqQ1ZWVCaYkB3iXedo.oBnOJmffWpcEu9VPMRmOIPCl2AsQg36",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "Email": "talhaali@gmail.com",
+        "password": "$2b$10$q5zivP1K76N9YNV00VJqXu6hfPWjhvyiFOSHFrZsRAQiO2kfLmKom",
+        "role": "user"
+    }
+]
