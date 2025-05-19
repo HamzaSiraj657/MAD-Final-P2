@@ -9,7 +9,7 @@ const navigation = useNavigation();
 
 return(
     <View style={styles.container}>
-        <Header title={"Lots of Get Shopping"}/>
+        <Header title={"Lots of Shopping"}/>
         <Image
             style={styles.img}
             source={{uri:"https://img.freepik.com/premium-photo/black-friday-collage-featuring-mix-product-im-00044-03_883586-169718.jpg?semt=ais_hybrid&w=740"}}
